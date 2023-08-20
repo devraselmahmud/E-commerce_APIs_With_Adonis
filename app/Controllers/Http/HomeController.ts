@@ -2,6 +2,6 @@
 
 export default class HomeController {
     public async index(){
-        return {welcome: "This is home controller"}
+        return {welcome: "Welcome Home!"}
     }
 }
